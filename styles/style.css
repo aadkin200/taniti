@@ -46,3 +46,13 @@ li a:hover:not(.active) {
 .half {
   width: 50%;
 }
+
+.halfPic {
+  width: 600px;
+}
+
+.rightFloat {
+  float: right;
+  margin-right: 20%;
+  margin-top: 200px;
+}
